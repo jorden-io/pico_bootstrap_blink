@@ -1,0 +1,3 @@
+/Users/jorby/Documents/pi/proj/build/pioasm/CMakeFiles/pioasm.dir
+/Users/jorby/Documents/pi/proj/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/jorby/Documents/pi/proj/build/pioasm/CMakeFiles/rebuild_cache.dir
